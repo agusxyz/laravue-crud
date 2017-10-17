@@ -5,7 +5,7 @@
       <div class="col-md-10">
       </div>
       <div class="col-md-2">
-        <<router-link :to="{ name: 'DisplayItem' }">Return to Items</router-link>
+        <router-link :to="{ name: 'DisplayItem' }">Return to Items</router-link>
       </div>
     </div>
 
